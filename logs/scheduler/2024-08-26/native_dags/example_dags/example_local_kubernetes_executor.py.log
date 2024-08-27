@@ -1,0 +1,660 @@
+[2024-08-26T15:21:54.645-0700] {processor.py:186} INFO - Started process (PID=7520) to work on /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:21:54.645-0700] {processor.py:914} INFO - Processing file /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-08-26T15:21:54.647-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:21:54.646-0700] {dagbag.py:587} INFO - Filling up the DagBag from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:21:54.648-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:21:54.648-0700] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-08-26T15:21:54.648-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:21:54.648-0700] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-08-26T15:21:54.649-0700] {processor.py:927} WARNING - No viable dags retrieved from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:21:54.654-0700] {processor.py:208} INFO - Processing /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.013 seconds
+[2024-08-26T15:22:51.943-0700] {processor.py:186} INFO - Started process (PID=7849) to work on /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:22:51.944-0700] {processor.py:914} INFO - Processing file /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-08-26T15:22:51.946-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:22:51.945-0700] {dagbag.py:587} INFO - Filling up the DagBag from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:22:51.948-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:22:51.947-0700] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-08-26T15:22:51.948-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:22:51.948-0700] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-08-26T15:22:51.948-0700] {processor.py:927} WARNING - No viable dags retrieved from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:22:51.954-0700] {processor.py:208} INFO - Processing /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.014 seconds
+[2024-08-26T15:23:47.123-0700] {processor.py:186} INFO - Started process (PID=8150) to work on /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:23:47.124-0700] {processor.py:914} INFO - Processing file /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-08-26T15:23:47.125-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:23:47.124-0700] {dagbag.py:587} INFO - Filling up the DagBag from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:23:47.127-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:23:47.126-0700] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-08-26T15:23:47.127-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:23:47.127-0700] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-08-26T15:23:47.127-0700] {processor.py:927} WARNING - No viable dags retrieved from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:23:47.133-0700] {processor.py:208} INFO - Processing /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.014 seconds
+[2024-08-26T15:25:37.554-0700] {processor.py:186} INFO - Started process (PID=8704) to work on /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:25:37.555-0700] {processor.py:914} INFO - Processing file /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-08-26T15:25:37.558-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:25:37.557-0700] {dagbag.py:587} INFO - Filling up the DagBag from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:25:37.559-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:25:37.559-0700] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-08-26T15:25:37.559-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:25:37.559-0700] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-08-26T15:25:37.560-0700] {processor.py:927} WARNING - No viable dags retrieved from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:25:37.566-0700] {processor.py:208} INFO - Processing /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.015 seconds
+[2024-08-26T15:26:31.741-0700] {processor.py:186} INFO - Started process (PID=8994) to work on /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:26:31.742-0700] {processor.py:914} INFO - Processing file /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-08-26T15:26:31.743-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:26:31.743-0700] {dagbag.py:587} INFO - Filling up the DagBag from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:26:31.745-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:26:31.745-0700] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-08-26T15:26:31.745-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:26:31.745-0700] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-08-26T15:26:31.745-0700] {processor.py:927} WARNING - No viable dags retrieved from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:26:31.751-0700] {processor.py:208} INFO - Processing /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.013 seconds
+[2024-08-26T15:27:24.287-0700] {processor.py:186} INFO - Started process (PID=9258) to work on /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:27:24.291-0700] {processor.py:914} INFO - Processing file /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-08-26T15:27:24.292-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:27:24.292-0700] {dagbag.py:587} INFO - Filling up the DagBag from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:27:24.294-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:27:24.294-0700] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-08-26T15:27:24.294-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:27:24.294-0700] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-08-26T15:27:24.295-0700] {processor.py:927} WARNING - No viable dags retrieved from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:27:24.300-0700] {processor.py:208} INFO - Processing /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.016 seconds
+[2024-08-26T15:28:14.176-0700] {processor.py:186} INFO - Started process (PID=9507) to work on /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:28:14.177-0700] {processor.py:914} INFO - Processing file /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-08-26T15:28:14.179-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:28:14.179-0700] {dagbag.py:587} INFO - Filling up the DagBag from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:28:14.182-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:28:14.181-0700] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-08-26T15:28:14.182-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:28:14.182-0700] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-08-26T15:28:14.182-0700] {processor.py:927} WARNING - No viable dags retrieved from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:28:14.192-0700] {processor.py:208} INFO - Processing /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.021 seconds
+[2024-08-26T15:29:03.701-0700] {processor.py:186} INFO - Started process (PID=9760) to work on /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:29:03.702-0700] {processor.py:914} INFO - Processing file /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-08-26T15:29:03.703-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:29:03.703-0700] {dagbag.py:587} INFO - Filling up the DagBag from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:29:03.705-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:29:03.705-0700] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-08-26T15:29:03.705-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:29:03.705-0700] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-08-26T15:29:03.706-0700] {processor.py:927} WARNING - No viable dags retrieved from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:29:03.711-0700] {processor.py:208} INFO - Processing /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.014 seconds
+[2024-08-26T15:29:54.294-0700] {processor.py:186} INFO - Started process (PID=10100) to work on /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:29:54.295-0700] {processor.py:914} INFO - Processing file /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-08-26T15:29:54.296-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:29:54.296-0700] {dagbag.py:587} INFO - Filling up the DagBag from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:29:54.298-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:29:54.297-0700] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-08-26T15:29:54.298-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:29:54.298-0700] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-08-26T15:29:54.298-0700] {processor.py:927} WARNING - No viable dags retrieved from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:29:54.304-0700] {processor.py:208} INFO - Processing /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.013 seconds
+[2024-08-26T15:30:42.743-0700] {processor.py:186} INFO - Started process (PID=10342) to work on /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:30:42.743-0700] {processor.py:914} INFO - Processing file /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-08-26T15:30:42.745-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:30:42.744-0700] {dagbag.py:587} INFO - Filling up the DagBag from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:30:42.747-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:30:42.747-0700] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-08-26T15:30:42.747-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:30:42.747-0700] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-08-26T15:30:42.747-0700] {processor.py:927} WARNING - No viable dags retrieved from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:30:42.754-0700] {processor.py:208} INFO - Processing /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.014 seconds
+[2024-08-26T15:31:30.625-0700] {processor.py:186} INFO - Started process (PID=10614) to work on /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:31:30.626-0700] {processor.py:914} INFO - Processing file /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-08-26T15:31:30.627-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:31:30.626-0700] {dagbag.py:587} INFO - Filling up the DagBag from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:31:30.629-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:31:30.628-0700] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-08-26T15:31:30.629-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:31:30.629-0700] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-08-26T15:31:30.629-0700] {processor.py:927} WARNING - No viable dags retrieved from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:31:30.635-0700] {processor.py:208} INFO - Processing /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.014 seconds
+[2024-08-26T15:32:16.129-0700] {processor.py:186} INFO - Started process (PID=10848) to work on /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:32:16.130-0700] {processor.py:914} INFO - Processing file /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-08-26T15:32:16.131-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:32:16.131-0700] {dagbag.py:587} INFO - Filling up the DagBag from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:32:16.133-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:32:16.132-0700] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-08-26T15:32:16.133-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:32:16.133-0700] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-08-26T15:32:16.133-0700] {processor.py:927} WARNING - No viable dags retrieved from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:32:16.139-0700] {processor.py:208} INFO - Processing /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.014 seconds
+[2024-08-26T15:33:05.688-0700] {processor.py:186} INFO - Started process (PID=11103) to work on /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:33:05.689-0700] {processor.py:914} INFO - Processing file /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-08-26T15:33:05.690-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:33:05.690-0700] {dagbag.py:587} INFO - Filling up the DagBag from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:33:05.692-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:33:05.692-0700] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-08-26T15:33:05.692-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:33:05.692-0700] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-08-26T15:33:05.692-0700] {processor.py:927} WARNING - No viable dags retrieved from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:33:05.698-0700] {processor.py:208} INFO - Processing /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.013 seconds
+[2024-08-26T15:33:58.325-0700] {processor.py:186} INFO - Started process (PID=11374) to work on /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:33:58.326-0700] {processor.py:914} INFO - Processing file /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-08-26T15:33:58.327-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:33:58.327-0700] {dagbag.py:587} INFO - Filling up the DagBag from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:33:58.329-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:33:58.329-0700] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-08-26T15:33:58.329-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:33:58.329-0700] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-08-26T15:33:58.329-0700] {processor.py:927} WARNING - No viable dags retrieved from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:33:58.335-0700] {processor.py:208} INFO - Processing /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.013 seconds
+[2024-08-26T15:34:47.805-0700] {processor.py:186} INFO - Started process (PID=11636) to work on /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:34:47.806-0700] {processor.py:914} INFO - Processing file /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-08-26T15:34:47.808-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:34:47.808-0700] {dagbag.py:587} INFO - Filling up the DagBag from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:34:47.810-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:34:47.809-0700] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-08-26T15:34:47.810-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:34:47.810-0700] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-08-26T15:34:47.810-0700] {processor.py:927} WARNING - No viable dags retrieved from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:34:47.816-0700] {processor.py:208} INFO - Processing /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.013 seconds
+[2024-08-26T15:35:36.846-0700] {processor.py:186} INFO - Started process (PID=11903) to work on /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:35:36.847-0700] {processor.py:914} INFO - Processing file /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-08-26T15:35:36.849-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:35:36.848-0700] {dagbag.py:587} INFO - Filling up the DagBag from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:35:36.851-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:35:36.850-0700] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-08-26T15:35:36.851-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:35:36.851-0700] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-08-26T15:35:36.851-0700] {processor.py:927} WARNING - No viable dags retrieved from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:35:36.857-0700] {processor.py:208} INFO - Processing /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.014 seconds
+[2024-08-26T15:36:23.490-0700] {processor.py:186} INFO - Started process (PID=12159) to work on /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:36:23.491-0700] {processor.py:914} INFO - Processing file /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-08-26T15:36:23.492-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:36:23.492-0700] {dagbag.py:587} INFO - Filling up the DagBag from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:36:23.494-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:36:23.493-0700] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-08-26T15:36:23.494-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:36:23.494-0700] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-08-26T15:36:23.494-0700] {processor.py:927} WARNING - No viable dags retrieved from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:36:23.499-0700] {processor.py:208} INFO - Processing /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.013 seconds
+[2024-08-26T15:37:11.092-0700] {processor.py:186} INFO - Started process (PID=12707) to work on /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:37:11.093-0700] {processor.py:914} INFO - Processing file /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-08-26T15:37:11.094-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:37:11.094-0700] {dagbag.py:587} INFO - Filling up the DagBag from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:37:11.096-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:37:11.096-0700] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-08-26T15:37:11.096-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:37:11.096-0700] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-08-26T15:37:11.096-0700] {processor.py:927} WARNING - No viable dags retrieved from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:37:11.102-0700] {processor.py:208} INFO - Processing /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.013 seconds
+[2024-08-26T15:37:55.605-0700] {processor.py:186} INFO - Started process (PID=13118) to work on /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:37:55.606-0700] {processor.py:914} INFO - Processing file /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-08-26T15:37:55.607-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:37:55.607-0700] {dagbag.py:587} INFO - Filling up the DagBag from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:37:55.609-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:37:55.609-0700] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-08-26T15:37:55.609-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:37:55.609-0700] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-08-26T15:37:55.609-0700] {processor.py:927} WARNING - No viable dags retrieved from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:37:55.615-0700] {processor.py:208} INFO - Processing /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.014 seconds
+[2024-08-26T15:38:43.411-0700] {processor.py:186} INFO - Started process (PID=13518) to work on /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:38:43.412-0700] {processor.py:914} INFO - Processing file /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-08-26T15:38:43.413-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:38:43.413-0700] {dagbag.py:587} INFO - Filling up the DagBag from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:38:43.415-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:38:43.415-0700] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-08-26T15:38:43.415-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:38:43.415-0700] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-08-26T15:38:43.415-0700] {processor.py:927} WARNING - No viable dags retrieved from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:38:43.421-0700] {processor.py:208} INFO - Processing /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.014 seconds
+[2024-08-26T15:39:31.770-0700] {processor.py:186} INFO - Started process (PID=14060) to work on /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:39:31.771-0700] {processor.py:914} INFO - Processing file /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-08-26T15:39:31.772-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:39:31.772-0700] {dagbag.py:587} INFO - Filling up the DagBag from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:39:31.774-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:39:31.774-0700] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-08-26T15:39:31.774-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:39:31.774-0700] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-08-26T15:39:31.774-0700] {processor.py:927} WARNING - No viable dags retrieved from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:39:31.780-0700] {processor.py:208} INFO - Processing /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.012 seconds
+[2024-08-26T15:40:20.984-0700] {processor.py:186} INFO - Started process (PID=14523) to work on /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:40:20.985-0700] {processor.py:914} INFO - Processing file /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-08-26T15:40:20.986-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:40:20.986-0700] {dagbag.py:587} INFO - Filling up the DagBag from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:40:20.988-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:40:20.988-0700] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-08-26T15:40:20.988-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:40:20.988-0700] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-08-26T15:40:20.989-0700] {processor.py:927} WARNING - No viable dags retrieved from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:40:20.996-0700] {processor.py:208} INFO - Processing /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.015 seconds
+[2024-08-26T15:41:09.383-0700] {processor.py:186} INFO - Started process (PID=14947) to work on /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:41:09.385-0700] {processor.py:914} INFO - Processing file /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-08-26T15:41:09.387-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:41:09.386-0700] {dagbag.py:587} INFO - Filling up the DagBag from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:41:09.389-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:41:09.389-0700] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-08-26T15:41:09.389-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:41:09.389-0700] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-08-26T15:41:09.390-0700] {processor.py:927} WARNING - No viable dags retrieved from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:41:09.399-0700] {processor.py:208} INFO - Processing /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.021 seconds
+[2024-08-26T15:41:57.394-0700] {processor.py:186} INFO - Started process (PID=15374) to work on /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:41:57.395-0700] {processor.py:914} INFO - Processing file /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-08-26T15:41:57.397-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:41:57.397-0700] {dagbag.py:587} INFO - Filling up the DagBag from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:41:57.399-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:41:57.399-0700] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-08-26T15:41:57.399-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:41:57.399-0700] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-08-26T15:41:57.399-0700] {processor.py:927} WARNING - No viable dags retrieved from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:41:57.405-0700] {processor.py:208} INFO - Processing /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.014 seconds
+[2024-08-26T15:42:47.608-0700] {processor.py:186} INFO - Started process (PID=15898) to work on /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:42:47.609-0700] {processor.py:914} INFO - Processing file /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-08-26T15:42:47.610-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:42:47.610-0700] {dagbag.py:587} INFO - Filling up the DagBag from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:42:47.612-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:42:47.612-0700] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-08-26T15:42:47.612-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:42:47.612-0700] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-08-26T15:42:47.612-0700] {processor.py:927} WARNING - No viable dags retrieved from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:42:47.619-0700] {processor.py:208} INFO - Processing /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.014 seconds
+[2024-08-26T15:43:39.249-0700] {processor.py:186} INFO - Started process (PID=16400) to work on /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:43:39.250-0700] {processor.py:914} INFO - Processing file /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-08-26T15:43:39.251-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:43:39.251-0700] {dagbag.py:587} INFO - Filling up the DagBag from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:43:39.253-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:43:39.253-0700] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-08-26T15:43:39.254-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:43:39.253-0700] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-08-26T15:43:39.254-0700] {processor.py:927} WARNING - No viable dags retrieved from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:43:39.260-0700] {processor.py:208} INFO - Processing /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.014 seconds
+[2024-08-26T15:44:26.128-0700] {processor.py:186} INFO - Started process (PID=16778) to work on /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:44:26.129-0700] {processor.py:914} INFO - Processing file /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-08-26T15:44:26.130-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:44:26.130-0700] {dagbag.py:587} INFO - Filling up the DagBag from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:44:26.132-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:44:26.131-0700] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-08-26T15:44:26.132-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:44:26.132-0700] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-08-26T15:44:26.132-0700] {processor.py:927} WARNING - No viable dags retrieved from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:44:26.138-0700] {processor.py:208} INFO - Processing /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.014 seconds
+[2024-08-26T15:45:14.243-0700] {processor.py:186} INFO - Started process (PID=17166) to work on /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:45:14.244-0700] {processor.py:914} INFO - Processing file /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-08-26T15:45:14.245-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:45:14.244-0700] {dagbag.py:587} INFO - Filling up the DagBag from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:45:14.247-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:45:14.246-0700] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-08-26T15:45:14.247-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:45:14.247-0700] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-08-26T15:45:14.247-0700] {processor.py:927} WARNING - No viable dags retrieved from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:45:14.253-0700] {processor.py:208} INFO - Processing /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.013 seconds
+[2024-08-26T15:46:04.797-0700] {processor.py:186} INFO - Started process (PID=17630) to work on /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:46:04.798-0700] {processor.py:914} INFO - Processing file /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-08-26T15:46:04.798-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:46:04.798-0700] {dagbag.py:587} INFO - Filling up the DagBag from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:46:04.800-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:46:04.800-0700] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-08-26T15:46:04.800-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:46:04.800-0700] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-08-26T15:46:04.800-0700] {processor.py:927} WARNING - No viable dags retrieved from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:46:04.806-0700] {processor.py:208} INFO - Processing /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.013 seconds
+[2024-08-26T15:46:56.113-0700] {processor.py:186} INFO - Started process (PID=18087) to work on /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:46:56.114-0700] {processor.py:914} INFO - Processing file /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-08-26T15:46:56.114-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:46:56.114-0700] {dagbag.py:587} INFO - Filling up the DagBag from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:46:56.116-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:46:56.116-0700] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-08-26T15:46:56.116-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:46:56.116-0700] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-08-26T15:46:56.117-0700] {processor.py:927} WARNING - No viable dags retrieved from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:46:56.122-0700] {processor.py:208} INFO - Processing /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.014 seconds
+[2024-08-26T15:47:49.047-0700] {processor.py:186} INFO - Started process (PID=18544) to work on /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:47:49.048-0700] {processor.py:914} INFO - Processing file /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-08-26T15:47:49.049-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:47:49.048-0700] {dagbag.py:587} INFO - Filling up the DagBag from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:47:49.050-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:47:49.050-0700] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-08-26T15:47:49.051-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:47:49.051-0700] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-08-26T15:47:49.051-0700] {processor.py:927} WARNING - No viable dags retrieved from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:47:49.056-0700] {processor.py:208} INFO - Processing /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.014 seconds
+[2024-08-26T15:48:38.541-0700] {processor.py:186} INFO - Started process (PID=19045) to work on /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:48:38.542-0700] {processor.py:914} INFO - Processing file /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-08-26T15:48:38.543-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:48:38.543-0700] {dagbag.py:587} INFO - Filling up the DagBag from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:48:38.545-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:48:38.544-0700] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-08-26T15:48:38.545-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:48:38.545-0700] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-08-26T15:48:38.545-0700] {processor.py:927} WARNING - No viable dags retrieved from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:48:38.551-0700] {processor.py:208} INFO - Processing /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.014 seconds
+[2024-08-26T15:49:28.391-0700] {processor.py:186} INFO - Started process (PID=19763) to work on /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:49:28.391-0700] {processor.py:914} INFO - Processing file /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-08-26T15:49:28.392-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:49:28.392-0700] {dagbag.py:587} INFO - Filling up the DagBag from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:49:28.394-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:49:28.394-0700] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-08-26T15:49:28.394-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:49:28.394-0700] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-08-26T15:49:28.395-0700] {processor.py:927} WARNING - No viable dags retrieved from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:49:28.401-0700] {processor.py:208} INFO - Processing /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.015 seconds
+[2024-08-26T15:50:17.377-0700] {processor.py:186} INFO - Started process (PID=20356) to work on /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:50:17.378-0700] {processor.py:914} INFO - Processing file /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-08-26T15:50:17.378-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:50:17.378-0700] {dagbag.py:587} INFO - Filling up the DagBag from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:50:17.380-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:50:17.380-0700] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-08-26T15:50:17.380-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:50:17.380-0700] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-08-26T15:50:17.380-0700] {processor.py:927} WARNING - No viable dags retrieved from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:50:17.386-0700] {processor.py:208} INFO - Processing /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.014 seconds
+[2024-08-26T15:50:30.419-0700] {processor.py:186} INFO - Started process (PID=20491) to work on /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:50:30.419-0700] {processor.py:914} INFO - Processing file /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-08-26T15:50:30.421-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:50:30.421-0700] {dagbag.py:587} INFO - Filling up the DagBag from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:50:30.423-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:50:30.422-0700] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-08-26T15:50:30.423-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:50:30.423-0700] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-08-26T15:50:30.423-0700] {processor.py:927} WARNING - No viable dags retrieved from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:50:30.428-0700] {processor.py:208} INFO - Processing /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.013 seconds
+[2024-08-26T15:51:05.882-0700] {processor.py:186} INFO - Started process (PID=20914) to work on /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:51:05.883-0700] {processor.py:914} INFO - Processing file /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-08-26T15:51:05.884-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:51:05.884-0700] {dagbag.py:587} INFO - Filling up the DagBag from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:51:05.886-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:51:05.886-0700] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-08-26T15:51:05.886-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:51:05.886-0700] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-08-26T15:51:05.886-0700] {processor.py:927} WARNING - No viable dags retrieved from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:51:05.892-0700] {processor.py:208} INFO - Processing /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.014 seconds
+[2024-08-26T15:51:24.643-0700] {processor.py:186} INFO - Started process (PID=21134) to work on /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:51:24.643-0700] {processor.py:914} INFO - Processing file /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-08-26T15:51:24.645-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:51:24.644-0700] {dagbag.py:587} INFO - Filling up the DagBag from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:51:24.647-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:51:24.646-0700] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-08-26T15:51:24.647-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:51:24.647-0700] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-08-26T15:51:24.647-0700] {processor.py:927} WARNING - No viable dags retrieved from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:51:24.653-0700] {processor.py:208} INFO - Processing /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.013 seconds
+[2024-08-26T15:52:18.310-0700] {processor.py:186} INFO - Started process (PID=21676) to work on /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:52:18.335-0700] {processor.py:914} INFO - Processing file /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-08-26T15:52:18.336-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:52:18.336-0700] {dagbag.py:587} INFO - Filling up the DagBag from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:52:18.338-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:52:18.338-0700] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-08-26T15:52:18.339-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:52:18.338-0700] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-08-26T15:52:18.339-0700] {processor.py:927} WARNING - No viable dags retrieved from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:52:18.344-0700] {processor.py:208} INFO - Processing /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.038 seconds
+[2024-08-26T15:53:09.595-0700] {processor.py:186} INFO - Started process (PID=22140) to work on /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:53:09.596-0700] {processor.py:914} INFO - Processing file /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-08-26T15:53:09.597-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:53:09.597-0700] {dagbag.py:587} INFO - Filling up the DagBag from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:53:09.599-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:53:09.599-0700] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-08-26T15:53:09.599-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:53:09.599-0700] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-08-26T15:53:09.599-0700] {processor.py:927} WARNING - No viable dags retrieved from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:53:09.605-0700] {processor.py:208} INFO - Processing /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.013 seconds
+[2024-08-26T15:54:22.338-0700] {processor.py:186} INFO - Started process (PID=22849) to work on /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:54:22.339-0700] {processor.py:914} INFO - Processing file /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-08-26T15:54:22.341-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:54:22.341-0700] {dagbag.py:587} INFO - Filling up the DagBag from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:54:22.343-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:54:22.343-0700] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-08-26T15:54:22.343-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:54:22.343-0700] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-08-26T15:54:22.343-0700] {processor.py:927} WARNING - No viable dags retrieved from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:54:22.349-0700] {processor.py:208} INFO - Processing /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.014 seconds
+[2024-08-26T15:55:37.038-0700] {processor.py:186} INFO - Started process (PID=23520) to work on /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:55:37.039-0700] {processor.py:914} INFO - Processing file /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-08-26T15:55:37.041-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:55:37.041-0700] {dagbag.py:587} INFO - Filling up the DagBag from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:55:37.043-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:55:37.042-0700] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-08-26T15:55:37.043-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:55:37.043-0700] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-08-26T15:55:37.043-0700] {processor.py:927} WARNING - No viable dags retrieved from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:55:37.048-0700] {processor.py:208} INFO - Processing /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.013 seconds
+[2024-08-26T15:56:31.226-0700] {processor.py:186} INFO - Started process (PID=24139) to work on /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:56:31.227-0700] {processor.py:914} INFO - Processing file /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-08-26T15:56:31.228-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:56:31.228-0700] {dagbag.py:587} INFO - Filling up the DagBag from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:56:31.230-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:56:31.230-0700] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-08-26T15:56:31.230-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:56:31.230-0700] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-08-26T15:56:31.230-0700] {processor.py:927} WARNING - No viable dags retrieved from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:56:31.236-0700] {processor.py:208} INFO - Processing /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.013 seconds
+[2024-08-26T15:57:31.614-0700] {processor.py:186} INFO - Started process (PID=24984) to work on /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:57:31.615-0700] {processor.py:914} INFO - Processing file /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-08-26T15:57:31.616-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:57:31.616-0700] {dagbag.py:587} INFO - Filling up the DagBag from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:57:31.618-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:57:31.617-0700] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-08-26T15:57:31.618-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:57:31.618-0700] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-08-26T15:57:31.618-0700] {processor.py:927} WARNING - No viable dags retrieved from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:57:31.623-0700] {processor.py:208} INFO - Processing /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.013 seconds
+[2024-08-26T15:58:26.795-0700] {processor.py:186} INFO - Started process (PID=25421) to work on /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:58:26.796-0700] {processor.py:914} INFO - Processing file /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-08-26T15:58:26.798-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:58:26.797-0700] {dagbag.py:587} INFO - Filling up the DagBag from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:58:26.799-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:58:26.799-0700] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-08-26T15:58:26.800-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:58:26.800-0700] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-08-26T15:58:26.800-0700] {processor.py:927} WARNING - No viable dags retrieved from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:58:26.805-0700] {processor.py:208} INFO - Processing /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.013 seconds
+[2024-08-26T15:59:15.695-0700] {processor.py:186} INFO - Started process (PID=25818) to work on /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:59:15.696-0700] {processor.py:914} INFO - Processing file /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-08-26T15:59:15.697-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:59:15.697-0700] {dagbag.py:587} INFO - Filling up the DagBag from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:59:15.699-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:59:15.698-0700] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-08-26T15:59:15.699-0700] {logging_mixin.py:190} INFO - [2024-08-26T15:59:15.699-0700] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-08-26T15:59:15.699-0700] {processor.py:927} WARNING - No viable dags retrieved from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T15:59:15.704-0700] {processor.py:208} INFO - Processing /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.013 seconds
+[2024-08-26T16:00:06.250-0700] {processor.py:186} INFO - Started process (PID=26215) to work on /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T16:00:06.251-0700] {processor.py:914} INFO - Processing file /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-08-26T16:00:06.252-0700] {logging_mixin.py:190} INFO - [2024-08-26T16:00:06.252-0700] {dagbag.py:587} INFO - Filling up the DagBag from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T16:00:06.254-0700] {logging_mixin.py:190} INFO - [2024-08-26T16:00:06.254-0700] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-08-26T16:00:06.254-0700] {logging_mixin.py:190} INFO - [2024-08-26T16:00:06.254-0700] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-08-26T16:00:06.254-0700] {processor.py:927} WARNING - No viable dags retrieved from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T16:00:06.260-0700] {processor.py:208} INFO - Processing /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.013 seconds
+[2024-08-26T16:00:54.047-0700] {processor.py:186} INFO - Started process (PID=26626) to work on /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T16:00:54.048-0700] {processor.py:914} INFO - Processing file /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-08-26T16:00:54.049-0700] {logging_mixin.py:190} INFO - [2024-08-26T16:00:54.049-0700] {dagbag.py:587} INFO - Filling up the DagBag from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T16:00:54.050-0700] {logging_mixin.py:190} INFO - [2024-08-26T16:00:54.050-0700] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-08-26T16:00:54.051-0700] {logging_mixin.py:190} INFO - [2024-08-26T16:00:54.051-0700] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-08-26T16:00:54.051-0700] {processor.py:927} WARNING - No viable dags retrieved from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T16:00:54.057-0700] {processor.py:208} INFO - Processing /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.013 seconds
+[2024-08-26T16:01:40.858-0700] {processor.py:186} INFO - Started process (PID=27000) to work on /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T16:01:40.860-0700] {processor.py:914} INFO - Processing file /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-08-26T16:01:40.861-0700] {logging_mixin.py:190} INFO - [2024-08-26T16:01:40.860-0700] {dagbag.py:587} INFO - Filling up the DagBag from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T16:01:40.862-0700] {logging_mixin.py:190} INFO - [2024-08-26T16:01:40.862-0700] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-08-26T16:01:40.863-0700] {logging_mixin.py:190} INFO - [2024-08-26T16:01:40.863-0700] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-08-26T16:01:40.863-0700] {processor.py:927} WARNING - No viable dags retrieved from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T16:01:40.869-0700] {processor.py:208} INFO - Processing /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.014 seconds
+[2024-08-26T16:02:31.071-0700] {processor.py:186} INFO - Started process (PID=27401) to work on /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T16:02:31.073-0700] {processor.py:914} INFO - Processing file /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-08-26T16:02:31.074-0700] {logging_mixin.py:190} INFO - [2024-08-26T16:02:31.074-0700] {dagbag.py:587} INFO - Filling up the DagBag from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T16:02:31.076-0700] {logging_mixin.py:190} INFO - [2024-08-26T16:02:31.075-0700] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-08-26T16:02:31.076-0700] {logging_mixin.py:190} INFO - [2024-08-26T16:02:31.076-0700] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-08-26T16:02:31.076-0700] {processor.py:927} WARNING - No viable dags retrieved from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T16:02:31.081-0700] {processor.py:208} INFO - Processing /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.013 seconds
+[2024-08-26T16:03:20.735-0700] {processor.py:186} INFO - Started process (PID=27794) to work on /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T16:03:20.736-0700] {processor.py:914} INFO - Processing file /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-08-26T16:03:20.737-0700] {logging_mixin.py:190} INFO - [2024-08-26T16:03:20.737-0700] {dagbag.py:587} INFO - Filling up the DagBag from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T16:03:20.739-0700] {logging_mixin.py:190} INFO - [2024-08-26T16:03:20.739-0700] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-08-26T16:03:20.739-0700] {logging_mixin.py:190} INFO - [2024-08-26T16:03:20.739-0700] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-08-26T16:03:20.739-0700] {processor.py:927} WARNING - No viable dags retrieved from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T16:03:20.746-0700] {processor.py:208} INFO - Processing /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.014 seconds
+[2024-08-26T16:04:09.872-0700] {processor.py:186} INFO - Started process (PID=28188) to work on /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T16:04:09.873-0700] {processor.py:914} INFO - Processing file /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-08-26T16:04:09.874-0700] {logging_mixin.py:190} INFO - [2024-08-26T16:04:09.874-0700] {dagbag.py:587} INFO - Filling up the DagBag from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T16:04:09.876-0700] {logging_mixin.py:190} INFO - [2024-08-26T16:04:09.876-0700] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-08-26T16:04:09.877-0700] {logging_mixin.py:190} INFO - [2024-08-26T16:04:09.877-0700] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-08-26T16:04:09.877-0700] {processor.py:927} WARNING - No viable dags retrieved from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T16:04:09.882-0700] {processor.py:208} INFO - Processing /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.013 seconds
+[2024-08-26T16:04:58.974-0700] {processor.py:186} INFO - Started process (PID=28580) to work on /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T16:04:58.975-0700] {processor.py:914} INFO - Processing file /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-08-26T16:04:58.977-0700] {logging_mixin.py:190} INFO - [2024-08-26T16:04:58.976-0700] {dagbag.py:587} INFO - Filling up the DagBag from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T16:04:58.978-0700] {logging_mixin.py:190} INFO - [2024-08-26T16:04:58.978-0700] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-08-26T16:04:58.978-0700] {logging_mixin.py:190} INFO - [2024-08-26T16:04:58.978-0700] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-08-26T16:04:58.979-0700] {processor.py:927} WARNING - No viable dags retrieved from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T16:04:58.984-0700] {processor.py:208} INFO - Processing /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.013 seconds
+[2024-08-26T16:05:46.628-0700] {processor.py:186} INFO - Started process (PID=28986) to work on /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T16:05:46.629-0700] {processor.py:914} INFO - Processing file /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-08-26T16:05:46.630-0700] {logging_mixin.py:190} INFO - [2024-08-26T16:05:46.630-0700] {dagbag.py:587} INFO - Filling up the DagBag from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T16:05:46.632-0700] {logging_mixin.py:190} INFO - [2024-08-26T16:05:46.631-0700] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-08-26T16:05:46.632-0700] {logging_mixin.py:190} INFO - [2024-08-26T16:05:46.632-0700] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-08-26T16:05:46.632-0700] {processor.py:927} WARNING - No viable dags retrieved from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T16:05:46.638-0700] {processor.py:208} INFO - Processing /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.013 seconds
+[2024-08-26T16:06:33.614-0700] {processor.py:186} INFO - Started process (PID=29365) to work on /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T16:06:33.616-0700] {processor.py:914} INFO - Processing file /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-08-26T16:06:33.617-0700] {logging_mixin.py:190} INFO - [2024-08-26T16:06:33.617-0700] {dagbag.py:587} INFO - Filling up the DagBag from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T16:06:33.619-0700] {logging_mixin.py:190} INFO - [2024-08-26T16:06:33.619-0700] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-08-26T16:06:33.619-0700] {logging_mixin.py:190} INFO - [2024-08-26T16:06:33.619-0700] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-08-26T16:06:33.619-0700] {processor.py:927} WARNING - No viable dags retrieved from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T16:06:33.625-0700] {processor.py:208} INFO - Processing /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.014 seconds
+[2024-08-26T16:07:23.289-0700] {processor.py:186} INFO - Started process (PID=29758) to work on /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T16:07:23.290-0700] {processor.py:914} INFO - Processing file /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-08-26T16:07:23.291-0700] {logging_mixin.py:190} INFO - [2024-08-26T16:07:23.291-0700] {dagbag.py:587} INFO - Filling up the DagBag from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T16:07:23.293-0700] {logging_mixin.py:190} INFO - [2024-08-26T16:07:23.293-0700] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-08-26T16:07:23.294-0700] {logging_mixin.py:190} INFO - [2024-08-26T16:07:23.294-0700] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-08-26T16:07:23.294-0700] {processor.py:927} WARNING - No viable dags retrieved from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T16:07:23.300-0700] {processor.py:208} INFO - Processing /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.014 seconds
+[2024-08-26T16:08:31.975-0700] {processor.py:186} INFO - Started process (PID=30296) to work on /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T16:08:31.985-0700] {processor.py:914} INFO - Processing file /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-08-26T16:08:31.986-0700] {logging_mixin.py:190} INFO - [2024-08-26T16:08:31.986-0700] {dagbag.py:587} INFO - Filling up the DagBag from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T16:08:31.988-0700] {logging_mixin.py:190} INFO - [2024-08-26T16:08:31.988-0700] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-08-26T16:08:31.988-0700] {logging_mixin.py:190} INFO - [2024-08-26T16:08:31.988-0700] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-08-26T16:08:31.988-0700] {processor.py:927} WARNING - No viable dags retrieved from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T16:08:31.994-0700] {processor.py:208} INFO - Processing /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.023 seconds
+[2024-08-26T16:09:21.499-0700] {processor.py:186} INFO - Started process (PID=30689) to work on /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T16:09:21.500-0700] {processor.py:914} INFO - Processing file /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-08-26T16:09:21.501-0700] {logging_mixin.py:190} INFO - [2024-08-26T16:09:21.501-0700] {dagbag.py:587} INFO - Filling up the DagBag from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T16:09:21.503-0700] {logging_mixin.py:190} INFO - [2024-08-26T16:09:21.503-0700] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-08-26T16:09:21.503-0700] {logging_mixin.py:190} INFO - [2024-08-26T16:09:21.503-0700] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-08-26T16:09:21.503-0700] {processor.py:927} WARNING - No viable dags retrieved from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T16:09:21.509-0700] {processor.py:208} INFO - Processing /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.013 seconds
+[2024-08-26T16:10:08.662-0700] {processor.py:186} INFO - Started process (PID=31070) to work on /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T16:10:08.662-0700] {processor.py:914} INFO - Processing file /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-08-26T16:10:08.663-0700] {logging_mixin.py:190} INFO - [2024-08-26T16:10:08.663-0700] {dagbag.py:587} INFO - Filling up the DagBag from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T16:10:08.665-0700] {logging_mixin.py:190} INFO - [2024-08-26T16:10:08.665-0700] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-08-26T16:10:08.666-0700] {logging_mixin.py:190} INFO - [2024-08-26T16:10:08.666-0700] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-08-26T16:10:08.666-0700] {processor.py:927} WARNING - No viable dags retrieved from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T16:10:08.672-0700] {processor.py:208} INFO - Processing /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.014 seconds
+[2024-08-26T16:10:56.116-0700] {processor.py:186} INFO - Started process (PID=31473) to work on /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T16:10:56.117-0700] {processor.py:914} INFO - Processing file /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-08-26T16:10:56.118-0700] {logging_mixin.py:190} INFO - [2024-08-26T16:10:56.118-0700] {dagbag.py:587} INFO - Filling up the DagBag from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T16:10:56.120-0700] {logging_mixin.py:190} INFO - [2024-08-26T16:10:56.119-0700] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-08-26T16:10:56.120-0700] {logging_mixin.py:190} INFO - [2024-08-26T16:10:56.120-0700] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-08-26T16:10:56.120-0700] {processor.py:927} WARNING - No viable dags retrieved from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T16:10:56.125-0700] {processor.py:208} INFO - Processing /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.013 seconds
+[2024-08-26T16:11:46.787-0700] {processor.py:186} INFO - Started process (PID=31876) to work on /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T16:11:46.788-0700] {processor.py:914} INFO - Processing file /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-08-26T16:11:46.789-0700] {logging_mixin.py:190} INFO - [2024-08-26T16:11:46.789-0700] {dagbag.py:587} INFO - Filling up the DagBag from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T16:11:46.792-0700] {logging_mixin.py:190} INFO - [2024-08-26T16:11:46.791-0700] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-08-26T16:11:46.792-0700] {logging_mixin.py:190} INFO - [2024-08-26T16:11:46.792-0700] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-08-26T16:11:46.792-0700] {processor.py:927} WARNING - No viable dags retrieved from /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-26T16:11:46.797-0700] {processor.py:208} INFO - Processing /home/jerson/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.013 seconds

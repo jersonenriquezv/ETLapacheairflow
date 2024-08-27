@@ -1,0 +1,288 @@
+[2024-08-26T17:36:59.590-0700] {processor.py:186} INFO - Started process (PID=32629) to work on /home/jerson/airflow/dags
+[2024-08-26T17:36:59.590-0700] {processor.py:914} INFO - Processing file /home/jerson/airflow/dags for tasks to queue
+[2024-08-26T17:36:59.591-0700] {logging_mixin.py:190} INFO - [2024-08-26T17:36:59.591-0700] {dagbag.py:587} INFO - Filling up the DagBag from /home/jerson/airflow/dags
+[2024-08-26T17:36:59.596-0700] {processor.py:925} INFO - DAG(s) 'my-first-python-etl-dag' retrieved from /home/jerson/airflow/dags
+[2024-08-26T17:36:59.649-0700] {logging_mixin.py:190} INFO - [2024-08-26T17:36:59.649-0700] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-26T17:36:59.659-0700] {logging_mixin.py:190} INFO - [2024-08-26T17:36:59.659-0700] {dag.py:4138} INFO - Setting next_dagrun for my-first-python-etl-dag to 2024-08-27 00:00:00+00:00, run_after=2024-08-28 00:00:00+00:00
+[2024-08-26T17:36:59.728-0700] {processor.py:208} INFO - Processing /home/jerson/airflow/dags took 0.142 seconds
+[2024-08-26T17:37:34.413-0700] {processor.py:186} INFO - Started process (PID=32905) to work on /home/jerson/airflow/dags
+[2024-08-26T17:37:34.414-0700] {processor.py:914} INFO - Processing file /home/jerson/airflow/dags for tasks to queue
+[2024-08-26T17:37:34.415-0700] {logging_mixin.py:190} INFO - [2024-08-26T17:37:34.415-0700] {dagbag.py:587} INFO - Filling up the DagBag from /home/jerson/airflow/dags
+[2024-08-26T17:37:34.420-0700] {processor.py:925} INFO - DAG(s) 'my-first-python-etl-dag' retrieved from /home/jerson/airflow/dags
+[2024-08-26T17:37:34.428-0700] {logging_mixin.py:190} INFO - [2024-08-26T17:37:34.428-0700] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-26T17:37:34.439-0700] {logging_mixin.py:190} INFO - [2024-08-26T17:37:34.439-0700] {dag.py:4138} INFO - Setting next_dagrun for my-first-python-etl-dag to 2024-08-27 00:00:00+00:00, run_after=2024-08-28 00:00:00+00:00
+[2024-08-26T17:37:34.455-0700] {processor.py:208} INFO - Processing /home/jerson/airflow/dags took 0.045 seconds
+[2024-08-26T17:38:25.747-0700] {processor.py:186} INFO - Started process (PID=33312) to work on /home/jerson/airflow/dags
+[2024-08-26T17:38:25.748-0700] {processor.py:914} INFO - Processing file /home/jerson/airflow/dags for tasks to queue
+[2024-08-26T17:38:25.750-0700] {logging_mixin.py:190} INFO - [2024-08-26T17:38:25.749-0700] {dagbag.py:587} INFO - Filling up the DagBag from /home/jerson/airflow/dags
+[2024-08-26T17:38:25.754-0700] {processor.py:925} INFO - DAG(s) 'my-first-python-etl-dag' retrieved from /home/jerson/airflow/dags
+[2024-08-26T17:38:25.764-0700] {logging_mixin.py:190} INFO - [2024-08-26T17:38:25.764-0700] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-26T17:38:25.775-0700] {logging_mixin.py:190} INFO - [2024-08-26T17:38:25.775-0700] {dag.py:4138} INFO - Setting next_dagrun for my-first-python-etl-dag to 2024-08-27 00:00:00+00:00, run_after=2024-08-28 00:00:00+00:00
+[2024-08-26T17:38:25.791-0700] {processor.py:208} INFO - Processing /home/jerson/airflow/dags took 0.047 seconds
+[2024-08-26T17:39:13.143-0700] {processor.py:186} INFO - Started process (PID=33694) to work on /home/jerson/airflow/dags
+[2024-08-26T17:39:13.144-0700] {processor.py:914} INFO - Processing file /home/jerson/airflow/dags for tasks to queue
+[2024-08-26T17:39:13.145-0700] {logging_mixin.py:190} INFO - [2024-08-26T17:39:13.145-0700] {dagbag.py:587} INFO - Filling up the DagBag from /home/jerson/airflow/dags
+[2024-08-26T17:39:13.149-0700] {processor.py:925} INFO - DAG(s) 'my-first-python-etl-dag' retrieved from /home/jerson/airflow/dags
+[2024-08-26T17:39:13.158-0700] {logging_mixin.py:190} INFO - [2024-08-26T17:39:13.158-0700] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-26T17:39:13.169-0700] {logging_mixin.py:190} INFO - [2024-08-26T17:39:13.169-0700] {dag.py:4138} INFO - Setting next_dagrun for my-first-python-etl-dag to 2024-08-27 00:00:00+00:00, run_after=2024-08-28 00:00:00+00:00
+[2024-08-26T17:39:13.183-0700] {processor.py:208} INFO - Processing /home/jerson/airflow/dags took 0.044 seconds
+[2024-08-26T17:40:02.066-0700] {processor.py:186} INFO - Started process (PID=34109) to work on /home/jerson/airflow/dags
+[2024-08-26T17:40:02.067-0700] {processor.py:914} INFO - Processing file /home/jerson/airflow/dags for tasks to queue
+[2024-08-26T17:40:02.068-0700] {logging_mixin.py:190} INFO - [2024-08-26T17:40:02.068-0700] {dagbag.py:587} INFO - Filling up the DagBag from /home/jerson/airflow/dags
+[2024-08-26T17:40:02.074-0700] {processor.py:925} INFO - DAG(s) 'my-first-python-etl-dag' retrieved from /home/jerson/airflow/dags
+[2024-08-26T17:40:02.085-0700] {logging_mixin.py:190} INFO - [2024-08-26T17:40:02.085-0700] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-26T17:40:02.098-0700] {logging_mixin.py:190} INFO - [2024-08-26T17:40:02.098-0700] {dag.py:4138} INFO - Setting next_dagrun for my-first-python-etl-dag to 2024-08-27 00:00:00+00:00, run_after=2024-08-28 00:00:00+00:00
+[2024-08-26T17:40:02.119-0700] {processor.py:208} INFO - Processing /home/jerson/airflow/dags took 0.057 seconds
+[2024-08-26T17:40:52.717-0700] {processor.py:186} INFO - Started process (PID=34514) to work on /home/jerson/airflow/dags
+[2024-08-26T17:40:52.718-0700] {processor.py:914} INFO - Processing file /home/jerson/airflow/dags for tasks to queue
+[2024-08-26T17:40:52.719-0700] {logging_mixin.py:190} INFO - [2024-08-26T17:40:52.719-0700] {dagbag.py:587} INFO - Filling up the DagBag from /home/jerson/airflow/dags
+[2024-08-26T17:40:52.723-0700] {processor.py:925} INFO - DAG(s) 'my-first-python-etl-dag' retrieved from /home/jerson/airflow/dags
+[2024-08-26T17:40:52.732-0700] {logging_mixin.py:190} INFO - [2024-08-26T17:40:52.732-0700] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-26T17:40:52.743-0700] {logging_mixin.py:190} INFO - [2024-08-26T17:40:52.743-0700] {dag.py:4138} INFO - Setting next_dagrun for my-first-python-etl-dag to 2024-08-27 00:00:00+00:00, run_after=2024-08-28 00:00:00+00:00
+[2024-08-26T17:40:52.757-0700] {processor.py:208} INFO - Processing /home/jerson/airflow/dags took 0.044 seconds
+[2024-08-26T17:41:41.722-0700] {processor.py:186} INFO - Started process (PID=34903) to work on /home/jerson/airflow/dags
+[2024-08-26T17:41:41.723-0700] {processor.py:914} INFO - Processing file /home/jerson/airflow/dags for tasks to queue
+[2024-08-26T17:41:41.724-0700] {logging_mixin.py:190} INFO - [2024-08-26T17:41:41.724-0700] {dagbag.py:587} INFO - Filling up the DagBag from /home/jerson/airflow/dags
+[2024-08-26T17:41:41.728-0700] {processor.py:925} INFO - DAG(s) 'my-first-python-etl-dag' retrieved from /home/jerson/airflow/dags
+[2024-08-26T17:41:41.737-0700] {logging_mixin.py:190} INFO - [2024-08-26T17:41:41.737-0700] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-26T17:41:41.748-0700] {logging_mixin.py:190} INFO - [2024-08-26T17:41:41.747-0700] {dag.py:4138} INFO - Setting next_dagrun for my-first-python-etl-dag to 2024-08-27 00:00:00+00:00, run_after=2024-08-28 00:00:00+00:00
+[2024-08-26T17:41:41.763-0700] {processor.py:208} INFO - Processing /home/jerson/airflow/dags took 0.044 seconds
+[2024-08-26T17:42:30.135-0700] {processor.py:186} INFO - Started process (PID=35290) to work on /home/jerson/airflow/dags
+[2024-08-26T17:42:30.136-0700] {processor.py:914} INFO - Processing file /home/jerson/airflow/dags for tasks to queue
+[2024-08-26T17:42:30.137-0700] {logging_mixin.py:190} INFO - [2024-08-26T17:42:30.137-0700] {dagbag.py:587} INFO - Filling up the DagBag from /home/jerson/airflow/dags
+[2024-08-26T17:42:30.141-0700] {processor.py:925} INFO - DAG(s) 'my-first-python-etl-dag' retrieved from /home/jerson/airflow/dags
+[2024-08-26T17:42:30.150-0700] {logging_mixin.py:190} INFO - [2024-08-26T17:42:30.150-0700] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-26T17:42:30.160-0700] {logging_mixin.py:190} INFO - [2024-08-26T17:42:30.160-0700] {dag.py:4138} INFO - Setting next_dagrun for my-first-python-etl-dag to 2024-08-27 00:00:00+00:00, run_after=2024-08-28 00:00:00+00:00
+[2024-08-26T17:42:30.175-0700] {processor.py:208} INFO - Processing /home/jerson/airflow/dags took 0.043 seconds
+[2024-08-26T17:43:20.318-0700] {processor.py:186} INFO - Started process (PID=35685) to work on /home/jerson/airflow/dags
+[2024-08-26T17:43:20.319-0700] {processor.py:914} INFO - Processing file /home/jerson/airflow/dags for tasks to queue
+[2024-08-26T17:43:20.320-0700] {logging_mixin.py:190} INFO - [2024-08-26T17:43:20.320-0700] {dagbag.py:587} INFO - Filling up the DagBag from /home/jerson/airflow/dags
+[2024-08-26T17:43:20.324-0700] {processor.py:925} INFO - DAG(s) 'my-first-python-etl-dag' retrieved from /home/jerson/airflow/dags
+[2024-08-26T17:43:20.333-0700] {logging_mixin.py:190} INFO - [2024-08-26T17:43:20.333-0700] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-26T17:43:20.344-0700] {logging_mixin.py:190} INFO - [2024-08-26T17:43:20.344-0700] {dag.py:4138} INFO - Setting next_dagrun for my-first-python-etl-dag to 2024-08-27 00:00:00+00:00, run_after=2024-08-28 00:00:00+00:00
+[2024-08-26T17:43:20.357-0700] {processor.py:208} INFO - Processing /home/jerson/airflow/dags took 0.043 seconds
+[2024-08-26T17:44:07.409-0700] {processor.py:186} INFO - Started process (PID=36064) to work on /home/jerson/airflow/dags
+[2024-08-26T17:44:07.410-0700] {processor.py:914} INFO - Processing file /home/jerson/airflow/dags for tasks to queue
+[2024-08-26T17:44:07.412-0700] {logging_mixin.py:190} INFO - [2024-08-26T17:44:07.411-0700] {dagbag.py:587} INFO - Filling up the DagBag from /home/jerson/airflow/dags
+[2024-08-26T17:44:07.417-0700] {processor.py:925} INFO - DAG(s) 'my-first-python-etl-dag' retrieved from /home/jerson/airflow/dags
+[2024-08-26T17:44:07.428-0700] {logging_mixin.py:190} INFO - [2024-08-26T17:44:07.428-0700] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-26T17:44:07.442-0700] {logging_mixin.py:190} INFO - [2024-08-26T17:44:07.442-0700] {dag.py:4138} INFO - Setting next_dagrun for my-first-python-etl-dag to 2024-08-27 00:00:00+00:00, run_after=2024-08-28 00:00:00+00:00
+[2024-08-26T17:44:07.462-0700] {processor.py:208} INFO - Processing /home/jerson/airflow/dags took 0.056 seconds
+[2024-08-26T17:44:57.970-0700] {processor.py:186} INFO - Started process (PID=36496) to work on /home/jerson/airflow/dags
+[2024-08-26T17:44:57.971-0700] {processor.py:914} INFO - Processing file /home/jerson/airflow/dags for tasks to queue
+[2024-08-26T17:44:57.972-0700] {logging_mixin.py:190} INFO - [2024-08-26T17:44:57.972-0700] {dagbag.py:587} INFO - Filling up the DagBag from /home/jerson/airflow/dags
+[2024-08-26T17:44:57.977-0700] {processor.py:925} INFO - DAG(s) 'my-first-python-etl-dag' retrieved from /home/jerson/airflow/dags
+[2024-08-26T17:44:57.986-0700] {logging_mixin.py:190} INFO - [2024-08-26T17:44:57.986-0700] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-26T17:44:57.997-0700] {logging_mixin.py:190} INFO - [2024-08-26T17:44:57.997-0700] {dag.py:4138} INFO - Setting next_dagrun for my-first-python-etl-dag to 2024-08-27 00:00:00+00:00, run_after=2024-08-28 00:00:00+00:00
+[2024-08-26T17:44:58.012-0700] {processor.py:208} INFO - Processing /home/jerson/airflow/dags took 0.045 seconds
+[2024-08-26T17:45:47.089-0700] {processor.py:186} INFO - Started process (PID=36888) to work on /home/jerson/airflow/dags
+[2024-08-26T17:45:47.090-0700] {processor.py:914} INFO - Processing file /home/jerson/airflow/dags for tasks to queue
+[2024-08-26T17:45:47.091-0700] {logging_mixin.py:190} INFO - [2024-08-26T17:45:47.091-0700] {dagbag.py:587} INFO - Filling up the DagBag from /home/jerson/airflow/dags
+[2024-08-26T17:45:47.096-0700] {processor.py:925} INFO - DAG(s) 'my-first-python-etl-dag' retrieved from /home/jerson/airflow/dags
+[2024-08-26T17:45:47.106-0700] {logging_mixin.py:190} INFO - [2024-08-26T17:45:47.105-0700] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-26T17:45:47.118-0700] {logging_mixin.py:190} INFO - [2024-08-26T17:45:47.118-0700] {dag.py:4138} INFO - Setting next_dagrun for my-first-python-etl-dag to 2024-08-27 00:00:00+00:00, run_after=2024-08-28 00:00:00+00:00
+[2024-08-26T17:45:47.134-0700] {processor.py:208} INFO - Processing /home/jerson/airflow/dags took 0.049 seconds
+[2024-08-26T17:46:36.775-0700] {processor.py:186} INFO - Started process (PID=37553) to work on /home/jerson/airflow/dags
+[2024-08-26T17:46:36.776-0700] {processor.py:914} INFO - Processing file /home/jerson/airflow/dags for tasks to queue
+[2024-08-26T17:46:36.777-0700] {logging_mixin.py:190} INFO - [2024-08-26T17:46:36.776-0700] {dagbag.py:587} INFO - Filling up the DagBag from /home/jerson/airflow/dags
+[2024-08-26T17:46:36.781-0700] {processor.py:925} INFO - DAG(s) 'my-first-python-etl-dag' retrieved from /home/jerson/airflow/dags
+[2024-08-26T17:46:36.791-0700] {logging_mixin.py:190} INFO - [2024-08-26T17:46:36.790-0700] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-26T17:46:36.801-0700] {logging_mixin.py:190} INFO - [2024-08-26T17:46:36.801-0700] {dag.py:4138} INFO - Setting next_dagrun for my-first-python-etl-dag to 2024-08-27 00:00:00+00:00, run_after=2024-08-28 00:00:00+00:00
+[2024-08-26T17:46:36.817-0700] {processor.py:208} INFO - Processing /home/jerson/airflow/dags took 0.045 seconds
+[2024-08-26T17:47:25.667-0700] {processor.py:186} INFO - Started process (PID=38044) to work on /home/jerson/airflow/dags
+[2024-08-26T17:47:25.668-0700] {processor.py:914} INFO - Processing file /home/jerson/airflow/dags for tasks to queue
+[2024-08-26T17:47:25.669-0700] {logging_mixin.py:190} INFO - [2024-08-26T17:47:25.669-0700] {dagbag.py:587} INFO - Filling up the DagBag from /home/jerson/airflow/dags
+[2024-08-26T17:47:25.675-0700] {processor.py:925} INFO - DAG(s) 'my-first-python-etl-dag' retrieved from /home/jerson/airflow/dags
+[2024-08-26T17:47:25.686-0700] {logging_mixin.py:190} INFO - [2024-08-26T17:47:25.686-0700] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-26T17:47:25.699-0700] {logging_mixin.py:190} INFO - [2024-08-26T17:47:25.699-0700] {dag.py:4138} INFO - Setting next_dagrun for my-first-python-etl-dag to 2024-08-27 00:00:00+00:00, run_after=2024-08-28 00:00:00+00:00
+[2024-08-26T17:47:25.717-0700] {processor.py:208} INFO - Processing /home/jerson/airflow/dags took 0.054 seconds
+[2024-08-26T17:48:18.069-0700] {processor.py:186} INFO - Started process (PID=38524) to work on /home/jerson/airflow/dags
+[2024-08-26T17:48:18.070-0700] {processor.py:914} INFO - Processing file /home/jerson/airflow/dags for tasks to queue
+[2024-08-26T17:48:18.071-0700] {logging_mixin.py:190} INFO - [2024-08-26T17:48:18.071-0700] {dagbag.py:587} INFO - Filling up the DagBag from /home/jerson/airflow/dags
+[2024-08-26T17:48:18.076-0700] {processor.py:925} INFO - DAG(s) 'my-first-python-etl-dag' retrieved from /home/jerson/airflow/dags
+[2024-08-26T17:48:18.086-0700] {logging_mixin.py:190} INFO - [2024-08-26T17:48:18.085-0700] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-26T17:48:18.097-0700] {logging_mixin.py:190} INFO - [2024-08-26T17:48:18.097-0700] {dag.py:4138} INFO - Setting next_dagrun for my-first-python-etl-dag to 2024-08-27 00:00:00+00:00, run_after=2024-08-28 00:00:00+00:00
+[2024-08-26T17:48:18.114-0700] {processor.py:208} INFO - Processing /home/jerson/airflow/dags took 0.048 seconds
+[2024-08-26T17:49:12.124-0700] {processor.py:186} INFO - Started process (PID=39049) to work on /home/jerson/airflow/dags
+[2024-08-26T17:49:12.125-0700] {processor.py:914} INFO - Processing file /home/jerson/airflow/dags for tasks to queue
+[2024-08-26T17:49:12.127-0700] {logging_mixin.py:190} INFO - [2024-08-26T17:49:12.126-0700] {dagbag.py:587} INFO - Filling up the DagBag from /home/jerson/airflow/dags
+[2024-08-26T17:49:12.131-0700] {processor.py:925} INFO - DAG(s) 'my-first-python-etl-dag' retrieved from /home/jerson/airflow/dags
+[2024-08-26T17:49:12.142-0700] {logging_mixin.py:190} INFO - [2024-08-26T17:49:12.142-0700] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-26T17:49:12.155-0700] {logging_mixin.py:190} INFO - [2024-08-26T17:49:12.155-0700] {dag.py:4138} INFO - Setting next_dagrun for my-first-python-etl-dag to 2024-08-27 00:00:00+00:00, run_after=2024-08-28 00:00:00+00:00
+[2024-08-26T17:49:12.173-0700] {processor.py:208} INFO - Processing /home/jerson/airflow/dags took 0.052 seconds
+[2024-08-26T17:50:01.591-0700] {processor.py:186} INFO - Started process (PID=39471) to work on /home/jerson/airflow/dags
+[2024-08-26T17:50:01.592-0700] {processor.py:914} INFO - Processing file /home/jerson/airflow/dags for tasks to queue
+[2024-08-26T17:50:01.593-0700] {logging_mixin.py:190} INFO - [2024-08-26T17:50:01.593-0700] {dagbag.py:587} INFO - Filling up the DagBag from /home/jerson/airflow/dags
+[2024-08-26T17:50:01.598-0700] {processor.py:925} INFO - DAG(s) 'my-first-python-etl-dag' retrieved from /home/jerson/airflow/dags
+[2024-08-26T17:50:01.609-0700] {logging_mixin.py:190} INFO - [2024-08-26T17:50:01.608-0700] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-26T17:50:01.621-0700] {logging_mixin.py:190} INFO - [2024-08-26T17:50:01.621-0700] {dag.py:4138} INFO - Setting next_dagrun for my-first-python-etl-dag to 2024-08-27 00:00:00+00:00, run_after=2024-08-28 00:00:00+00:00
+[2024-08-26T17:50:01.637-0700] {processor.py:208} INFO - Processing /home/jerson/airflow/dags took 0.050 seconds
+[2024-08-26T17:50:54.756-0700] {processor.py:186} INFO - Started process (PID=39894) to work on /home/jerson/airflow/dags
+[2024-08-26T17:50:54.757-0700] {processor.py:914} INFO - Processing file /home/jerson/airflow/dags for tasks to queue
+[2024-08-26T17:50:54.758-0700] {logging_mixin.py:190} INFO - [2024-08-26T17:50:54.758-0700] {dagbag.py:587} INFO - Filling up the DagBag from /home/jerson/airflow/dags
+[2024-08-26T17:50:54.763-0700] {processor.py:925} INFO - DAG(s) 'my-first-python-etl-dag' retrieved from /home/jerson/airflow/dags
+[2024-08-26T17:50:54.773-0700] {logging_mixin.py:190} INFO - [2024-08-26T17:50:54.773-0700] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-26T17:50:54.786-0700] {logging_mixin.py:190} INFO - [2024-08-26T17:50:54.786-0700] {dag.py:4138} INFO - Setting next_dagrun for my-first-python-etl-dag to 2024-08-27 00:00:00+00:00, run_after=2024-08-28 00:00:00+00:00
+[2024-08-26T17:50:54.803-0700] {processor.py:208} INFO - Processing /home/jerson/airflow/dags took 0.051 seconds
+[2024-08-26T17:51:42.407-0700] {processor.py:186} INFO - Started process (PID=40342) to work on /home/jerson/airflow/dags
+[2024-08-26T17:51:42.408-0700] {processor.py:914} INFO - Processing file /home/jerson/airflow/dags for tasks to queue
+[2024-08-26T17:51:42.410-0700] {logging_mixin.py:190} INFO - [2024-08-26T17:51:42.409-0700] {dagbag.py:587} INFO - Filling up the DagBag from /home/jerson/airflow/dags
+[2024-08-26T17:51:42.414-0700] {processor.py:925} INFO - DAG(s) 'my-first-python-etl-dag' retrieved from /home/jerson/airflow/dags
+[2024-08-26T17:51:42.424-0700] {logging_mixin.py:190} INFO - [2024-08-26T17:51:42.424-0700] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-26T17:51:42.436-0700] {logging_mixin.py:190} INFO - [2024-08-26T17:51:42.436-0700] {dag.py:4138} INFO - Setting next_dagrun for my-first-python-etl-dag to 2024-08-27 00:00:00+00:00, run_after=2024-08-28 00:00:00+00:00
+[2024-08-26T17:51:42.452-0700] {processor.py:208} INFO - Processing /home/jerson/airflow/dags took 0.048 seconds
+[2024-08-26T17:52:58.379-0700] {processor.py:186} INFO - Started process (PID=41248) to work on /home/jerson/airflow/dags
+[2024-08-26T17:52:58.380-0700] {processor.py:914} INFO - Processing file /home/jerson/airflow/dags for tasks to queue
+[2024-08-26T17:52:58.381-0700] {logging_mixin.py:190} INFO - [2024-08-26T17:52:58.381-0700] {dagbag.py:587} INFO - Filling up the DagBag from /home/jerson/airflow/dags
+[2024-08-26T17:52:58.387-0700] {processor.py:925} INFO - DAG(s) 'my-first-python-etl-dag' retrieved from /home/jerson/airflow/dags
+[2024-08-26T17:52:58.398-0700] {logging_mixin.py:190} INFO - [2024-08-26T17:52:58.398-0700] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-26T17:52:58.410-0700] {logging_mixin.py:190} INFO - [2024-08-26T17:52:58.410-0700] {dag.py:4138} INFO - Setting next_dagrun for my-first-python-etl-dag to 2024-08-27 00:00:00+00:00, run_after=2024-08-28 00:00:00+00:00
+[2024-08-26T17:52:58.426-0700] {processor.py:208} INFO - Processing /home/jerson/airflow/dags took 0.050 seconds
+[2024-08-26T17:54:38.132-0700] {processor.py:186} INFO - Started process (PID=42181) to work on /home/jerson/airflow/dags
+[2024-08-26T17:54:38.133-0700] {processor.py:914} INFO - Processing file /home/jerson/airflow/dags for tasks to queue
+[2024-08-26T17:54:38.134-0700] {logging_mixin.py:190} INFO - [2024-08-26T17:54:38.134-0700] {dagbag.py:587} INFO - Filling up the DagBag from /home/jerson/airflow/dags
+[2024-08-26T17:54:38.140-0700] {processor.py:925} INFO - DAG(s) 'my-first-python-etl-dag' retrieved from /home/jerson/airflow/dags
+[2024-08-26T17:54:38.152-0700] {logging_mixin.py:190} INFO - [2024-08-26T17:54:38.152-0700] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-26T17:54:38.163-0700] {logging_mixin.py:190} INFO - [2024-08-26T17:54:38.163-0700] {dag.py:4138} INFO - Setting next_dagrun for my-first-python-etl-dag to 2024-08-27 00:00:00+00:00, run_after=2024-08-28 00:00:00+00:00
+[2024-08-26T17:54:38.179-0700] {processor.py:208} INFO - Processing /home/jerson/airflow/dags took 0.050 seconds
+[2024-08-26T17:55:18.005-0700] {processor.py:186} INFO - Started process (PID=42687) to work on /home/jerson/airflow/dags
+[2024-08-26T17:55:18.006-0700] {processor.py:914} INFO - Processing file /home/jerson/airflow/dags for tasks to queue
+[2024-08-26T17:55:18.007-0700] {logging_mixin.py:190} INFO - [2024-08-26T17:55:18.007-0700] {dagbag.py:587} INFO - Filling up the DagBag from /home/jerson/airflow/dags
+[2024-08-26T17:55:18.013-0700] {processor.py:925} INFO - DAG(s) 'my-first-python-etl-dag' retrieved from /home/jerson/airflow/dags
+[2024-08-26T17:55:18.025-0700] {logging_mixin.py:190} INFO - [2024-08-26T17:55:18.025-0700] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-26T17:55:18.037-0700] {logging_mixin.py:190} INFO - [2024-08-26T17:55:18.037-0700] {dag.py:4138} INFO - Setting next_dagrun for my-first-python-etl-dag to 2024-08-27 00:00:00+00:00, run_after=2024-08-28 00:00:00+00:00
+[2024-08-26T17:55:18.053-0700] {processor.py:208} INFO - Processing /home/jerson/airflow/dags took 0.051 seconds
+[2024-08-26T17:56:12.559-0700] {processor.py:186} INFO - Started process (PID=43393) to work on /home/jerson/airflow/dags
+[2024-08-26T17:56:12.560-0700] {processor.py:914} INFO - Processing file /home/jerson/airflow/dags for tasks to queue
+[2024-08-26T17:56:12.561-0700] {logging_mixin.py:190} INFO - [2024-08-26T17:56:12.561-0700] {dagbag.py:587} INFO - Filling up the DagBag from /home/jerson/airflow/dags
+[2024-08-26T17:56:12.566-0700] {processor.py:925} INFO - DAG(s) 'my-first-python-etl-dag' retrieved from /home/jerson/airflow/dags
+[2024-08-26T17:56:12.574-0700] {logging_mixin.py:190} INFO - [2024-08-26T17:56:12.574-0700] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-26T17:56:12.586-0700] {logging_mixin.py:190} INFO - [2024-08-26T17:56:12.586-0700] {dag.py:4138} INFO - Setting next_dagrun for my-first-python-etl-dag to 2024-08-27 00:00:00+00:00, run_after=2024-08-28 00:00:00+00:00
+[2024-08-26T17:56:12.603-0700] {processor.py:208} INFO - Processing /home/jerson/airflow/dags took 0.046 seconds
+[2024-08-26T17:57:00.477-0700] {processor.py:186} INFO - Started process (PID=43868) to work on /home/jerson/airflow/dags
+[2024-08-26T17:57:00.478-0700] {processor.py:914} INFO - Processing file /home/jerson/airflow/dags for tasks to queue
+[2024-08-26T17:57:00.479-0700] {logging_mixin.py:190} INFO - [2024-08-26T17:57:00.479-0700] {dagbag.py:587} INFO - Filling up the DagBag from /home/jerson/airflow/dags
+[2024-08-26T17:57:00.485-0700] {processor.py:925} INFO - DAG(s) 'my-first-python-etl-dag' retrieved from /home/jerson/airflow/dags
+[2024-08-26T17:57:00.495-0700] {logging_mixin.py:190} INFO - [2024-08-26T17:57:00.495-0700] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-26T17:57:00.508-0700] {logging_mixin.py:190} INFO - [2024-08-26T17:57:00.507-0700] {dag.py:4138} INFO - Setting next_dagrun for my-first-python-etl-dag to 2024-08-27 00:00:00+00:00, run_after=2024-08-28 00:00:00+00:00
+[2024-08-26T17:57:00.525-0700] {processor.py:208} INFO - Processing /home/jerson/airflow/dags took 0.052 seconds
+[2024-08-26T17:57:48.996-0700] {processor.py:186} INFO - Started process (PID=44443) to work on /home/jerson/airflow/dags
+[2024-08-26T17:57:48.997-0700] {processor.py:914} INFO - Processing file /home/jerson/airflow/dags for tasks to queue
+[2024-08-26T17:57:48.998-0700] {logging_mixin.py:190} INFO - [2024-08-26T17:57:48.998-0700] {dagbag.py:587} INFO - Filling up the DagBag from /home/jerson/airflow/dags
+[2024-08-26T17:57:49.003-0700] {processor.py:925} INFO - DAG(s) 'my-first-python-etl-dag' retrieved from /home/jerson/airflow/dags
+[2024-08-26T17:57:49.011-0700] {logging_mixin.py:190} INFO - [2024-08-26T17:57:49.011-0700] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-26T17:57:49.022-0700] {logging_mixin.py:190} INFO - [2024-08-26T17:57:49.022-0700] {dag.py:4138} INFO - Setting next_dagrun for my-first-python-etl-dag to 2024-08-27 00:00:00+00:00, run_after=2024-08-28 00:00:00+00:00
+[2024-08-26T17:57:49.038-0700] {processor.py:208} INFO - Processing /home/jerson/airflow/dags took 0.045 seconds
+[2024-08-26T17:58:42.742-0700] {processor.py:186} INFO - Started process (PID=44997) to work on /home/jerson/airflow/dags
+[2024-08-26T17:58:42.743-0700] {processor.py:914} INFO - Processing file /home/jerson/airflow/dags for tasks to queue
+[2024-08-26T17:58:42.744-0700] {logging_mixin.py:190} INFO - [2024-08-26T17:58:42.744-0700] {dagbag.py:587} INFO - Filling up the DagBag from /home/jerson/airflow/dags
+[2024-08-26T17:58:42.749-0700] {processor.py:925} INFO - DAG(s) 'my-first-python-etl-dag' retrieved from /home/jerson/airflow/dags
+[2024-08-26T17:58:42.759-0700] {logging_mixin.py:190} INFO - [2024-08-26T17:58:42.759-0700] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-26T17:58:42.772-0700] {logging_mixin.py:190} INFO - [2024-08-26T17:58:42.772-0700] {dag.py:4138} INFO - Setting next_dagrun for my-first-python-etl-dag to 2024-08-27 00:00:00+00:00, run_after=2024-08-28 00:00:00+00:00
+[2024-08-26T17:58:42.789-0700] {processor.py:208} INFO - Processing /home/jerson/airflow/dags took 0.051 seconds
+[2024-08-26T17:59:33.366-0700] {processor.py:186} INFO - Started process (PID=45548) to work on /home/jerson/airflow/dags
+[2024-08-26T17:59:33.367-0700] {processor.py:914} INFO - Processing file /home/jerson/airflow/dags for tasks to queue
+[2024-08-26T17:59:33.368-0700] {logging_mixin.py:190} INFO - [2024-08-26T17:59:33.368-0700] {dagbag.py:587} INFO - Filling up the DagBag from /home/jerson/airflow/dags
+[2024-08-26T17:59:33.372-0700] {processor.py:925} INFO - DAG(s) 'my-first-python-etl-dag' retrieved from /home/jerson/airflow/dags
+[2024-08-26T17:59:33.381-0700] {logging_mixin.py:190} INFO - [2024-08-26T17:59:33.381-0700] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-26T17:59:33.392-0700] {logging_mixin.py:190} INFO - [2024-08-26T17:59:33.392-0700] {dag.py:4138} INFO - Setting next_dagrun for my-first-python-etl-dag to 2024-08-27 00:00:00+00:00, run_after=2024-08-28 00:00:00+00:00
+[2024-08-26T17:59:33.409-0700] {processor.py:208} INFO - Processing /home/jerson/airflow/dags took 0.047 seconds
+[2024-08-26T18:00:20.201-0700] {processor.py:186} INFO - Started process (PID=46114) to work on /home/jerson/airflow/dags
+[2024-08-26T18:00:20.202-0700] {processor.py:914} INFO - Processing file /home/jerson/airflow/dags for tasks to queue
+[2024-08-26T18:00:20.203-0700] {logging_mixin.py:190} INFO - [2024-08-26T18:00:20.203-0700] {dagbag.py:587} INFO - Filling up the DagBag from /home/jerson/airflow/dags
+[2024-08-26T18:00:20.208-0700] {processor.py:925} INFO - DAG(s) 'my-first-python-etl-dag' retrieved from /home/jerson/airflow/dags
+[2024-08-26T18:00:20.218-0700] {logging_mixin.py:190} INFO - [2024-08-26T18:00:20.218-0700] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-26T18:00:20.230-0700] {logging_mixin.py:190} INFO - [2024-08-26T18:00:20.230-0700] {dag.py:4138} INFO - Setting next_dagrun for my-first-python-etl-dag to 2024-08-27 00:00:00+00:00, run_after=2024-08-28 00:00:00+00:00
+[2024-08-26T18:00:20.246-0700] {processor.py:208} INFO - Processing /home/jerson/airflow/dags took 0.048 seconds
+[2024-08-26T18:01:12.100-0700] {processor.py:186} INFO - Started process (PID=46713) to work on /home/jerson/airflow/dags
+[2024-08-26T18:01:12.101-0700] {processor.py:914} INFO - Processing file /home/jerson/airflow/dags for tasks to queue
+[2024-08-26T18:01:12.102-0700] {logging_mixin.py:190} INFO - [2024-08-26T18:01:12.102-0700] {dagbag.py:587} INFO - Filling up the DagBag from /home/jerson/airflow/dags
+[2024-08-26T18:01:12.106-0700] {processor.py:925} INFO - DAG(s) 'my-first-python-etl-dag' retrieved from /home/jerson/airflow/dags
+[2024-08-26T18:01:12.115-0700] {logging_mixin.py:190} INFO - [2024-08-26T18:01:12.115-0700] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-26T18:01:12.126-0700] {logging_mixin.py:190} INFO - [2024-08-26T18:01:12.126-0700] {dag.py:4138} INFO - Setting next_dagrun for my-first-python-etl-dag to 2024-08-27 00:00:00+00:00, run_after=2024-08-28 00:00:00+00:00
+[2024-08-26T18:01:12.140-0700] {processor.py:208} INFO - Processing /home/jerson/airflow/dags took 0.043 seconds
+[2024-08-26T18:02:00.634-0700] {processor.py:186} INFO - Started process (PID=47102) to work on /home/jerson/airflow/dags
+[2024-08-26T18:02:00.636-0700] {processor.py:914} INFO - Processing file /home/jerson/airflow/dags for tasks to queue
+[2024-08-26T18:02:00.637-0700] {logging_mixin.py:190} INFO - [2024-08-26T18:02:00.637-0700] {dagbag.py:587} INFO - Filling up the DagBag from /home/jerson/airflow/dags
+[2024-08-26T18:02:00.643-0700] {processor.py:925} INFO - DAG(s) 'my-first-python-etl-dag' retrieved from /home/jerson/airflow/dags
+[2024-08-26T18:02:00.654-0700] {logging_mixin.py:190} INFO - [2024-08-26T18:02:00.654-0700] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-26T18:02:00.668-0700] {logging_mixin.py:190} INFO - [2024-08-26T18:02:00.668-0700] {dag.py:4138} INFO - Setting next_dagrun for my-first-python-etl-dag to 2024-08-27 00:00:00+00:00, run_after=2024-08-28 00:00:00+00:00
+[2024-08-26T18:02:00.685-0700] {processor.py:208} INFO - Processing /home/jerson/airflow/dags took 0.055 seconds
+[2024-08-26T18:02:48.030-0700] {processor.py:186} INFO - Started process (PID=47504) to work on /home/jerson/airflow/dags
+[2024-08-26T18:02:48.031-0700] {processor.py:914} INFO - Processing file /home/jerson/airflow/dags for tasks to queue
+[2024-08-26T18:02:48.032-0700] {logging_mixin.py:190} INFO - [2024-08-26T18:02:48.032-0700] {dagbag.py:587} INFO - Filling up the DagBag from /home/jerson/airflow/dags
+[2024-08-26T18:02:48.036-0700] {processor.py:925} INFO - DAG(s) 'my-first-python-etl-dag' retrieved from /home/jerson/airflow/dags
+[2024-08-26T18:02:48.046-0700] {logging_mixin.py:190} INFO - [2024-08-26T18:02:48.046-0700] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-26T18:02:48.057-0700] {logging_mixin.py:190} INFO - [2024-08-26T18:02:48.057-0700] {dag.py:4138} INFO - Setting next_dagrun for my-first-python-etl-dag to 2024-08-27 00:00:00+00:00, run_after=2024-08-28 00:00:00+00:00
+[2024-08-26T18:02:48.073-0700] {processor.py:208} INFO - Processing /home/jerson/airflow/dags took 0.047 seconds
+[2024-08-26T18:03:35.948-0700] {processor.py:186} INFO - Started process (PID=48012) to work on /home/jerson/airflow/dags
+[2024-08-26T18:03:35.949-0700] {processor.py:914} INFO - Processing file /home/jerson/airflow/dags for tasks to queue
+[2024-08-26T18:03:35.950-0700] {logging_mixin.py:190} INFO - [2024-08-26T18:03:35.950-0700] {dagbag.py:587} INFO - Filling up the DagBag from /home/jerson/airflow/dags
+[2024-08-26T18:03:35.954-0700] {processor.py:925} INFO - DAG(s) 'my-first-python-etl-dag' retrieved from /home/jerson/airflow/dags
+[2024-08-26T18:03:35.963-0700] {logging_mixin.py:190} INFO - [2024-08-26T18:03:35.963-0700] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-26T18:03:35.974-0700] {logging_mixin.py:190} INFO - [2024-08-26T18:03:35.974-0700] {dag.py:4138} INFO - Setting next_dagrun for my-first-python-etl-dag to 2024-08-27 00:00:00+00:00, run_after=2024-08-28 00:00:00+00:00
+[2024-08-26T18:03:35.990-0700] {processor.py:208} INFO - Processing /home/jerson/airflow/dags took 0.046 seconds
+[2024-08-26T18:04:27.023-0700] {processor.py:186} INFO - Started process (PID=48556) to work on /home/jerson/airflow/dags
+[2024-08-26T18:04:27.024-0700] {processor.py:914} INFO - Processing file /home/jerson/airflow/dags for tasks to queue
+[2024-08-26T18:04:27.025-0700] {logging_mixin.py:190} INFO - [2024-08-26T18:04:27.025-0700] {dagbag.py:587} INFO - Filling up the DagBag from /home/jerson/airflow/dags
+[2024-08-26T18:04:27.029-0700] {processor.py:925} INFO - DAG(s) 'my-first-python-etl-dag' retrieved from /home/jerson/airflow/dags
+[2024-08-26T18:04:27.040-0700] {logging_mixin.py:190} INFO - [2024-08-26T18:04:27.039-0700] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-26T18:04:27.051-0700] {logging_mixin.py:190} INFO - [2024-08-26T18:04:27.051-0700] {dag.py:4138} INFO - Setting next_dagrun for my-first-python-etl-dag to 2024-08-27 00:00:00+00:00, run_after=2024-08-28 00:00:00+00:00
+[2024-08-26T18:04:27.072-0700] {processor.py:208} INFO - Processing /home/jerson/airflow/dags took 0.054 seconds
+[2024-08-26T18:05:14.637-0700] {processor.py:186} INFO - Started process (PID=48935) to work on /home/jerson/airflow/dags
+[2024-08-26T18:05:14.637-0700] {processor.py:914} INFO - Processing file /home/jerson/airflow/dags for tasks to queue
+[2024-08-26T18:05:14.639-0700] {logging_mixin.py:190} INFO - [2024-08-26T18:05:14.638-0700] {dagbag.py:587} INFO - Filling up the DagBag from /home/jerson/airflow/dags
+[2024-08-26T18:05:14.644-0700] {processor.py:925} INFO - DAG(s) 'my-first-python-etl-dag' retrieved from /home/jerson/airflow/dags
+[2024-08-26T18:05:14.656-0700] {logging_mixin.py:190} INFO - [2024-08-26T18:05:14.656-0700] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-26T18:05:14.675-0700] {logging_mixin.py:190} INFO - [2024-08-26T18:05:14.675-0700] {dag.py:4138} INFO - Setting next_dagrun for my-first-python-etl-dag to 2024-08-27 00:00:00+00:00, run_after=2024-08-28 00:00:00+00:00
+[2024-08-26T18:05:14.695-0700] {processor.py:208} INFO - Processing /home/jerson/airflow/dags took 0.062 seconds
+[2024-08-26T18:05:59.242-0700] {processor.py:186} INFO - Started process (PID=49323) to work on /home/jerson/airflow/dags
+[2024-08-26T18:05:59.243-0700] {processor.py:914} INFO - Processing file /home/jerson/airflow/dags for tasks to queue
+[2024-08-26T18:05:59.244-0700] {logging_mixin.py:190} INFO - [2024-08-26T18:05:59.244-0700] {dagbag.py:587} INFO - Filling up the DagBag from /home/jerson/airflow/dags
+[2024-08-26T18:05:59.249-0700] {processor.py:925} INFO - DAG(s) 'my-first-python-etl-dag' retrieved from /home/jerson/airflow/dags
+[2024-08-26T18:05:59.258-0700] {logging_mixin.py:190} INFO - [2024-08-26T18:05:59.258-0700] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-26T18:05:59.269-0700] {logging_mixin.py:190} INFO - [2024-08-26T18:05:59.269-0700] {dag.py:4138} INFO - Setting next_dagrun for my-first-python-etl-dag to 2024-08-27 00:00:00+00:00, run_after=2024-08-28 00:00:00+00:00
+[2024-08-26T18:05:59.285-0700] {processor.py:208} INFO - Processing /home/jerson/airflow/dags took 0.046 seconds
+[2024-08-26T18:06:52.149-0700] {processor.py:186} INFO - Started process (PID=49803) to work on /home/jerson/airflow/dags
+[2024-08-26T18:06:52.150-0700] {processor.py:914} INFO - Processing file /home/jerson/airflow/dags for tasks to queue
+[2024-08-26T18:06:52.151-0700] {logging_mixin.py:190} INFO - [2024-08-26T18:06:52.151-0700] {dagbag.py:587} INFO - Filling up the DagBag from /home/jerson/airflow/dags
+[2024-08-26T18:06:52.155-0700] {processor.py:925} INFO - DAG(s) 'my-first-python-etl-dag' retrieved from /home/jerson/airflow/dags
+[2024-08-26T18:06:52.165-0700] {logging_mixin.py:190} INFO - [2024-08-26T18:06:52.165-0700] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-26T18:06:52.176-0700] {logging_mixin.py:190} INFO - [2024-08-26T18:06:52.175-0700] {dag.py:4138} INFO - Setting next_dagrun for my-first-python-etl-dag to 2024-08-27 00:00:00+00:00, run_after=2024-08-28 00:00:00+00:00
+[2024-08-26T18:06:52.191-0700] {processor.py:208} INFO - Processing /home/jerson/airflow/dags took 0.045 seconds
+[2024-08-26T18:07:40.151-0700] {processor.py:186} INFO - Started process (PID=50237) to work on /home/jerson/airflow/dags
+[2024-08-26T18:07:40.152-0700] {processor.py:914} INFO - Processing file /home/jerson/airflow/dags for tasks to queue
+[2024-08-26T18:07:40.153-0700] {logging_mixin.py:190} INFO - [2024-08-26T18:07:40.153-0700] {dagbag.py:587} INFO - Filling up the DagBag from /home/jerson/airflow/dags
+[2024-08-26T18:07:40.157-0700] {processor.py:925} INFO - DAG(s) 'my-first-python-etl-dag' retrieved from /home/jerson/airflow/dags
+[2024-08-26T18:07:40.167-0700] {logging_mixin.py:190} INFO - [2024-08-26T18:07:40.166-0700] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-26T18:07:40.178-0700] {logging_mixin.py:190} INFO - [2024-08-26T18:07:40.178-0700] {dag.py:4138} INFO - Setting next_dagrun for my-first-python-etl-dag to 2024-08-27 00:00:00+00:00, run_after=2024-08-28 00:00:00+00:00
+[2024-08-26T18:07:40.194-0700] {processor.py:208} INFO - Processing /home/jerson/airflow/dags took 0.047 seconds
+[2024-08-26T18:08:29.816-0700] {processor.py:186} INFO - Started process (PID=50754) to work on /home/jerson/airflow/dags
+[2024-08-26T18:08:29.817-0700] {processor.py:914} INFO - Processing file /home/jerson/airflow/dags for tasks to queue
+[2024-08-26T18:08:29.819-0700] {logging_mixin.py:190} INFO - [2024-08-26T18:08:29.818-0700] {dagbag.py:587} INFO - Filling up the DagBag from /home/jerson/airflow/dags
+[2024-08-26T18:08:29.823-0700] {processor.py:925} INFO - DAG(s) 'my-first-python-etl-dag' retrieved from /home/jerson/airflow/dags
+[2024-08-26T18:08:29.833-0700] {logging_mixin.py:190} INFO - [2024-08-26T18:08:29.833-0700] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-26T18:08:29.845-0700] {logging_mixin.py:190} INFO - [2024-08-26T18:08:29.845-0700] {dag.py:4138} INFO - Setting next_dagrun for my-first-python-etl-dag to 2024-08-27 00:00:00+00:00, run_after=2024-08-28 00:00:00+00:00
+[2024-08-26T18:08:29.860-0700] {processor.py:208} INFO - Processing /home/jerson/airflow/dags took 0.047 seconds
+[2024-08-26T18:09:24.543-0700] {processor.py:186} INFO - Started process (PID=51273) to work on /home/jerson/airflow/dags
+[2024-08-26T18:09:24.544-0700] {processor.py:914} INFO - Processing file /home/jerson/airflow/dags for tasks to queue
+[2024-08-26T18:09:24.545-0700] {logging_mixin.py:190} INFO - [2024-08-26T18:09:24.545-0700] {dagbag.py:587} INFO - Filling up the DagBag from /home/jerson/airflow/dags
+[2024-08-26T18:09:24.550-0700] {processor.py:925} INFO - DAG(s) 'ETL_Server_Access_Log_Processing' retrieved from /home/jerson/airflow/dags
+[2024-08-26T18:09:24.616-0700] {logging_mixin.py:190} INFO - [2024-08-26T18:09:24.616-0700] {override.py:1900} INFO - Created Permission View: can delete on DAG:ETL_Server_Access_Log_Processing
+[2024-08-26T18:09:24.627-0700] {logging_mixin.py:190} INFO - [2024-08-26T18:09:24.627-0700] {override.py:1900} INFO - Created Permission View: can read on DAG:ETL_Server_Access_Log_Processing
+[2024-08-26T18:09:24.636-0700] {logging_mixin.py:190} INFO - [2024-08-26T18:09:24.636-0700] {override.py:1900} INFO - Created Permission View: can edit on DAG:ETL_Server_Access_Log_Processing
+[2024-08-26T18:09:24.651-0700] {logging_mixin.py:190} INFO - [2024-08-26T18:09:24.651-0700] {override.py:1900} INFO - Created Permission View: can delete on DAG Run:ETL_Server_Access_Log_Processing
+[2024-08-26T18:09:24.661-0700] {logging_mixin.py:190} INFO - [2024-08-26T18:09:24.661-0700] {override.py:1900} INFO - Created Permission View: can read on DAG Run:ETL_Server_Access_Log_Processing
+[2024-08-26T18:09:24.670-0700] {logging_mixin.py:190} INFO - [2024-08-26T18:09:24.670-0700] {override.py:1900} INFO - Created Permission View: can create on DAG Run:ETL_Server_Access_Log_Processing
+[2024-08-26T18:09:24.680-0700] {logging_mixin.py:190} INFO - [2024-08-26T18:09:24.679-0700] {override.py:1900} INFO - Created Permission View: menu access on DAG Run:ETL_Server_Access_Log_Processing
+[2024-08-26T18:09:24.680-0700] {logging_mixin.py:190} INFO - [2024-08-26T18:09:24.680-0700] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-26T18:09:24.686-0700] {logging_mixin.py:190} INFO - [2024-08-26T18:09:24.686-0700] {dag.py:3234} INFO - Creating ORM DAG for ETL_Server_Access_Log_Processing
+[2024-08-26T18:09:24.691-0700] {logging_mixin.py:190} INFO - [2024-08-26T18:09:24.691-0700] {dag.py:4138} INFO - Setting next_dagrun for ETL_Server_Access_Log_Processing to 2024-08-27 00:00:00+00:00, run_after=2024-08-28 00:00:00+00:00
+[2024-08-26T18:09:24.709-0700] {processor.py:208} INFO - Processing /home/jerson/airflow/dags took 0.170 seconds
+[2024-08-26T18:10:11.609-0700] {processor.py:186} INFO - Started process (PID=51833) to work on /home/jerson/airflow/dags
+[2024-08-26T18:10:11.610-0700] {processor.py:914} INFO - Processing file /home/jerson/airflow/dags for tasks to queue
+[2024-08-26T18:10:11.611-0700] {logging_mixin.py:190} INFO - [2024-08-26T18:10:11.611-0700] {dagbag.py:587} INFO - Filling up the DagBag from /home/jerson/airflow/dags
+[2024-08-26T18:10:11.617-0700] {processor.py:925} INFO - DAG(s) 'ETL_Server_Access_Log_Processing' retrieved from /home/jerson/airflow/dags
+[2024-08-26T18:10:11.627-0700] {logging_mixin.py:190} INFO - [2024-08-26T18:10:11.627-0700] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-26T18:10:11.640-0700] {logging_mixin.py:190} INFO - [2024-08-26T18:10:11.640-0700] {dag.py:4138} INFO - Setting next_dagrun for ETL_Server_Access_Log_Processing to 2024-08-27 00:00:00+00:00, run_after=2024-08-28 00:00:00+00:00
+[2024-08-26T18:10:11.658-0700] {processor.py:208} INFO - Processing /home/jerson/airflow/dags took 0.053 seconds
